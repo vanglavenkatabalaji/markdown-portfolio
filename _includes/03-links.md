@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+Here we have to add some link to acess the class.
+[GitHub](http://github.com)
